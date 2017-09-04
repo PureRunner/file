@@ -4,7 +4,11 @@
         "details": [
             {
                 "appID": "XDTMM97Z68.com.foreveross.PrivateDevTest",
-                "paths": [ “/lalalas/*”]
+                "paths": [
+                    "NOT /together/share/source/*",
+                    "/index/*",
+                    "/"
+                ]
             }
         ]
     }
